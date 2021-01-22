@@ -36,7 +36,7 @@ public class Main {
                 System.out.println("It is not possible to division by zero \n");
             } finally {
                 if (loop){
-                    System.out.printf("Please, try it again \n");
+                    System.out.println("Please, try it again \n");
                 }else{
                     System.out.println("The result is: " + result);
                 }
