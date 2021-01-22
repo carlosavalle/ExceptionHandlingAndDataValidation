@@ -18,6 +18,7 @@ public class Main {
 
                 //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
                 Scanner input = new Scanner( System.in );
+                //
 
                 System.out.print("Enter the first number: \n");
                 num1 = input.nextInt();
